@@ -1,2 +1,2 @@
 # Data-Structures
-This repo gives the source code of Fundamental Algorithms and Data Structures in C along with their creation and opeation.
+This repo gives the source code of Fundamental Algorithms and Data Structures in C along with their creation and operations performed on them.
